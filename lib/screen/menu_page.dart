@@ -32,6 +32,8 @@ class MenuScreen extends StatelessWidget {
     ),
   ];
 
+   MenuScreen({super.key});
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
